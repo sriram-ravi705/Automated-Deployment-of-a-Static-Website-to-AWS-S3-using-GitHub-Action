@@ -19,4 +19,4 @@
 
 **Architecture:**  
 
-![](./s3_cd.png align="center")
+![](./s3_cd.png)
